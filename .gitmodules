@@ -1,0 +1,4 @@
+[submodule "Core2"]
+	path = Core2
+	url = https://github.com/goshanoob/CoreTest7.git
+	branch = master
